@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Site van Redinho</title>
+    <style>
+        body {
+            background-color: #ff7070;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            color: darkblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hallo!!!!! Ik ben redinho</h1>
+    <b><p>Welkom op mijn website met ROC-Plesk!</p></b>
+</body>
+</html>
